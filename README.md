@@ -50,6 +50,12 @@ Misinformation spreads faster than truth ⚡ and fuels chaos in society.
 
 ---
 
+### Images 
+<img src="" width="500"><img src="" width="500">
+<img src="" width="500"><img src="" width="500">
+
+---
+
 ## 🔄 Process Flow 🔁  
 
 Here’s how **RealityCheck AI** works:  
