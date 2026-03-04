@@ -72,7 +72,7 @@ Here’s how **RealityCheck AI** works:
 7️⃣ User gets **explanation + educational note** ✨  
 
 📊 **Flowchart :**  
-<img src="Images/Screenshot 2026-03-04 235724.png" width="1000">
+<img src="Images/Screenshot 2026-03-04 235705.png" width="1000">
 
 ---
 
