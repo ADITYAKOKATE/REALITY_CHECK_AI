@@ -72,7 +72,7 @@ Here’s how **RealityCheck AI** works:
 7️⃣ User gets **explanation + educational note** ✨  
 
 📊 **Flowchart :**  
-![Process Flow](Assets/Flowchart.gif)  
+<img src="Images/Screenshot 2026-03-04 235724.png" width="1000">
 
 ---
 
@@ -91,7 +91,7 @@ RealityCheck AI is built with a **layered architecture** for performance and sca
 
 📊 **Architecture Diagram :**  
 
-![Architecture](Assets/Architecture.gif)  
+<img src="Images/Screenshot 2026-03-04 235724.png" width="1000">
 
 ---
 
