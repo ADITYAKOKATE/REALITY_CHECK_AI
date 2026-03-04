@@ -125,15 +125,6 @@ RealityCheck AI is built with a **layered architecture** for performance and sca
 
 ---
 
-## 👥 Team – Data Squad 💪  
-
-- 👨‍💻 Aditya Kokate  
-- 🧑‍💻 Yash Purbhe  
-- 👩‍💻 Dipshree Vartak  
-- 👨‍💻 Manas Gurav  
-- 👨‍💻 Amaan Kherani  
-
----
 
 💡 Our vision → **An informed digital society, resilient against fake news.**  
 
